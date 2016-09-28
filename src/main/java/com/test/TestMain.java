@@ -8,5 +8,6 @@ public class TestMain {
 		//it's kenza
 		//it's dali
 		System.out.println("test 1 "); 
+		System.out.println("test 2"); 
 	}
 }
