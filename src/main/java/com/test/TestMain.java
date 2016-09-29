@@ -7,7 +7,7 @@ public class TestMain {
 		
 		//it's kenza
 		//it's dali
-		System.out.println("dddd");
+		System.out.println("test");
 	
 	}
 }
