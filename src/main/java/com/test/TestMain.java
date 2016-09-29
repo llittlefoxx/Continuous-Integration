@@ -9,6 +9,9 @@ public class TestMain {
 		//it's dali
 		System.out.println("test");
 		System.out.println("kickass");
+		for (int i = 0; i < 7000; i++) {
+			i--;
+		}
 	
 	}
 }
