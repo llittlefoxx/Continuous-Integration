@@ -2,16 +2,16 @@ package com.test;
 
 public class TestMain {
 
-	public void Main(String[] args){
+	public void Main(String[] args) {
 		System.out.println("test");
-		
-		//it's kenza
-		//it's dali
+
+		// it's kenza
+		// it's dali
 		System.out.println("test");
-		System.out.println("kickass");
 		for (int i = 0; i < 7000; i++) {
-			i--;
+		//	i--;
+			System.out.println("kickass");
 		}
-	
+
 	}
 }
