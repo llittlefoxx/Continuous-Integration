@@ -11,6 +11,7 @@ public class TestMain {
 		for (int i = 0; i < 7000; i++) {
 		//	i--;
 			System.out.println("tttt");
+			System.out.println("zefzefze");
 		}
 
 	}
