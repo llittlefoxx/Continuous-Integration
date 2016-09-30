@@ -10,7 +10,7 @@ public class TestMain {
 		System.out.println("test");
 		for (int i = 0; i < 7000; i++) {
 		//	i--;
-			System.out.println("kickass");
+			System.out.println("tttt");
 		}
 
 	}
